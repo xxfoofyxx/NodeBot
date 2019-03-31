@@ -1,0 +1,14 @@
+{
+  "name": "NodeBot",
+  "version": "1.0.0",
+  "description": "Experimental NodeJS Discord Bot",
+  "main": "bot.js",
+  "author": "xxfoofyxx",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6",
+    "winston": "^3.2.1"
+  }
+}
